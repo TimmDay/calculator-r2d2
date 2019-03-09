@@ -3,8 +3,7 @@
 
 Play with a working version [here](https://calculator-r2d2.herokuapp.com/)
 
-![before](readme-imgs/r2d2.png?raw=true "Title")
-<img src="readme-imgs/r2d2.png" title="R2D2" width="250">
+<img src="readme-imgs/r2d2.png" title="R2D2" width="500">
 
 I was having fun with this, so I even included some easter eggs. See these six secret blue buttons...
 
