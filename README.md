@@ -1,7 +1,7 @@
 # There were not enough Star Wars themed Calculator Apps on the web...
 [![Dependency Status](https://david-dm.org/dwyl/esta.svg)](https://david-dm.org/dwyl/esta)
 
-Working version [here](https://calculator-r2d2.herokuapp.com/)
+Working version [here](https://calculator-r2d2.herokuapp.com/)  :arrow_left:
 
 <p align="center">
   <img src="readme-imgs/r2d2.png" title="R2D2" width="500">
