@@ -1,19 +1,22 @@
 # There were not enough Star Wars themed Calculator Apps on the web...
 [![Dependency Status](https://david-dm.org/dwyl/esta.svg)](https://david-dm.org/dwyl/esta)
 
-Play with a working version [here](https://calculator-r2d2.herokuapp.com/)
+Working version [here](https://calculator-r2d2.herokuapp.com/)
 
-<img src="readme-imgs/r2d2.png" title="R2D2" width="500">
+<p align="center">
+  <img src="readme-imgs/r2d2.png" title="R2D2" width="500">
+</p>
 
-I was having fun with this, so I even included some easter eggs. See these six secret blue buttons...
+
+I was having fun with this, so there are easter eggs. See these six secret blue buttons...
 
 ![before](readme-imgs/r2d22.png?raw=true "Title")
 
 
 ----
 
-This was a project that I did early in my software dev learning. 
-It is fun to see how far I've come since this project, (it has just a hint of es6). The code could be cleaner, and it would work great as a react app, but it still works great (no dependencies) and is a nice memory lane thing.
+This project was early in my software dev learning. 
+It is fun to see how far I've come since this project, (it has just a hint of es6). The code could be cleaner, and it would work great as a react app, but it still works great (no dependencies) and is a nice memory lane thing. I am proud of how the visual turned out.
 
 Below I have included some of my notes from way back when.
 
